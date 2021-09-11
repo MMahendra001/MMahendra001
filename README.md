@@ -4,7 +4,7 @@
 
 - 💻 I’m currently learning about **Full Stack Web Development**
 
-- 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript based full stack projects**
+- I’m looking to collaborate on **JavaScript based Full Stack Projects**
 
 - 💬 Ask me about **HTML, CSS, RWD, Pixel Perfect Design, JavaScript, React, Next.js, Gatsbyjs, Node.js, MongoDb, HeadlessCMS, GraphQL, ApolloClient**
 
