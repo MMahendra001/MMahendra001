@@ -6,7 +6,7 @@
 
 - I’m looking to collaborate on **JavaScript based Full Stack Projects**
 
-- 💬 Ask me about **HTML, CSS, RWD, Pixel Perfect Design, JavaScript, React, Next.js, Gatsbyjs, Node.js, MongoDb, HeadlessCMS, GraphQL, ApolloClient**
+- 💬 Ask me about **HTML, CSS, RWD, Pixel Perfect Design, JavaScript, React, TypeScript, Next.js, Gatsbyjs, Node.js, MongoDb, HeadlessCMS, GraphQL, ApolloClient**
 
 - ⚡ Fun fact: **I am genuinely curious and i enjoy learning. #read #think #code #happyCoding**
 
