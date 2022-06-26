@@ -1,4 +1,4 @@
-### Hi there, I'm [Mahendra](https://mmahendra001.github.io){:target="_blank"} 👋
+### Hi there, I'm [Mahendra](https://mmahendra001.github.io) 👋
 
 <h2>Glad to see you here!</h2>
 
